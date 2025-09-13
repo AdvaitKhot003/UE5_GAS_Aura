@@ -1,0 +1,19 @@
+# Unreal Engine Generated Files
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+# Visual Studio / IDE Generated Files
+.vs
+.vscode
+.idea
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
